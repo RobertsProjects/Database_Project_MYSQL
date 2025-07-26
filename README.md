@@ -1,7 +1,7 @@
 # Database_Project_MYSQL
 Database Management System in MYSQL 
 
-This project simulates a relational database for a fictional company, Dunder Mifflin, using MySQL. 
+This project simulates a relational database for a fictional company using MySQL. 
 It defines and populates multiple tables (employee, branch, client, works_with, branch_supplier) to model business operations such as employee management, 
 branch structure, client relations, and sales tracking. The project includes foreign key constraints, views, triggers, indexes, 
 and stored procedures to demonstrate advanced database functionality, integrity enforcement, and analytical capabilities.
